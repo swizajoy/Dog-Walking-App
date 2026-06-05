@@ -1,4 +1,4 @@
-<img src=""/>
+<img src="What Makes a Dog Walking App Feel Trustworthy to Users.png"/>
 <p>Trust is one of the biggest factors influencing how people choose pet care services today. While convenience plays an important role, most pet owners care far more about knowing their dog is safe, comfortable, and being cared for by someone reliable.</p>
 <p>As on-demand pet services continue growing, users are becoming more selective about the apps they trust. A polished interface alone is no longer enough. People want transparency, communication, safety features, and dependable service throughout the entire experience.</p>
 <p>That&rsquo;s why the most successful <a href="https://gojekcloneappscript.com/"><strong>dog walking apps</strong></a> are often the ones that make users feel informed and reassured from the moment they book a walk.</p>
